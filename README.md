@@ -1,6 +1,10 @@
 # An Analysis of Kickstarter Campaigns
-From a dataset with kickstarter campaigns, I performed data analysis on several thousand crowdfunding projects to uncover any hidden trends.
-Performing analysis on kick starter data to uncover trends 
+
+#### Steps taken for analysis
+
+-From a dataset with kickstarter campaigns, I performed data analysis on several thousand crowdfunding projects to uncover any hidden trends.
+-To start with the analysis, create two excel sheets showing results based on launch date and goals of each campaigns.
+
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
 The kickstarters with lower goals were more succesful achieving it as seen on the descriptive statistics sheet.
