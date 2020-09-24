@@ -24,14 +24,16 @@ From a dataset with kickstarter campaigns, I performed data analysis on several 
 
 ** To find specific kickstarters use VLOOKUP which lets us pull specific columns from our main dataset into a new sheet without having to search for each column and then copy and paste the data.
 
-## Focus of this project
-
-For this project I looked at how many Kickstarter campaigns were able to reach their goal in a short amount of time? Does the length of a campaign contribute to its ultimate success or failure.
 
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
 The kickstarters with lower goals were more succesful achieving it as seen on the descriptive statistics sheet.
 Recommendation: Set lower goal for startup and have a limited time for the campaign. 
+
+## Focus of this project
+
+For this project I looked at how many Kickstarter campaigns were able to reach their goal in a short amount of time? Does the length of a campaign contribute to its ultimate success or failure.
+
 ### Challenge
 The percentage of success of a kickstarter is the higher when the goal amount is lower. 
 When the goal is high the likelyhood of a kickstarter project failing and getting cancelled are high.
