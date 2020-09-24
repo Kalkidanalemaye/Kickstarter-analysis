@@ -1,4 +1,5 @@
 # An Analysis of Kickstarter Campaigns
+From a dataset with kickstarter campaigns, I performed data analysis on several thousand crowdfunding projects to uncover any hidden trends.
 Performing analysis on kick starter data to uncover trends 
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
