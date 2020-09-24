@@ -20,6 +20,8 @@ From a dataset with kickstarter campaigns, I performed data analysis on several 
 
 4. Ensure to debug errors such as "#DIV/0!" using "=IFERROR(value,value_if_error)" formula. This formula catches errors and replaces them with a user-defined input. 
 
+5. Next, to vbisualize data, use pivot tables.
+
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
 The kickstarters with lower goals were more succesful achieving it as seen on the descriptive statistics sheet.
