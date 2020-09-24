@@ -16,6 +16,8 @@ From a dataset with kickstarter campaigns, I performed data analysis on several 
 
 2. To start with the analysis, create two excel sheets showing results based on launch date and goals of each campaigns.
 
+3. Filter and formate dataset accordingly.
+
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
 The kickstarters with lower goals were more succesful achieving it as seen on the descriptive statistics sheet.
