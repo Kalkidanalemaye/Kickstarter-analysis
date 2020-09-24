@@ -16,7 +16,9 @@ From a dataset with kickstarter campaigns, I performed data analysis on several 
 
 2. To start with the analysis, create two excel sheets showing results based on launch date and goals of each campaigns.
 
-3. Filter and formate dataset accordingly.
+3. Filter and format based on conditions accordingly.
+
+4. Ensure to debug errors such as "#DIV/0!" using "=IFERROR(value,value_if_error)" formula. This formula catches errors and replaces them with a user-defined input. 
 
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
