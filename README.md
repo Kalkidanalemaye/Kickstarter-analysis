@@ -22,6 +22,8 @@ From a dataset with kickstarter campaigns, I performed data analysis on several 
 
 5. Next, to vbisualize data, use pivot tables and charts.
 
+** To find specific kickstarters use VLOOKUP which lets us pull specific columns from our main dataset into a new sheet without having to search for each column and then copy and paste the data.
+
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
 The kickstarters with lower goals were more succesful achieving it as seen on the descriptive statistics sheet.
