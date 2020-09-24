@@ -7,8 +7,11 @@ From a dataset with kickstarter campaigns, I performed data analysis on several 
 1. First, understand what the dataset is trying to tell us. Columns to focus on include:
 
   a. The Goal column tells us how much money each campaign will need to succeed.
+  
   b. The Pledged column tells us how much each campaign actually made.
+  
   c. The Outcomes column tells us if the campaign met its goal.
+  
   d. The Country column lists the country in which the campaign was started.
 
 2. To start with the analysis, create two excel sheets showing results based on launch date and goals of each campaigns.
