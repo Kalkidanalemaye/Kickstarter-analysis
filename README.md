@@ -9,4 +9,4 @@ The percentage of success of a kickstarter is the higher when the goal amount is
 When the goal is high the likelyhood of a kickstarter project failing and getting cancelled are high.
 The best times to launch a kickstarter project is between the months of April to June.
 ![Goals](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Goals.png)
-![launchdate](path/to/launchdate.png)
+![launchdate]()
