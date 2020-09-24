@@ -2,8 +2,8 @@
 
 #### Steps taken for analysis
 
--From a dataset with kickstarter campaigns, I performed data analysis on several thousand crowdfunding projects to uncover any hidden trends.
--To start with the analysis, create two excel sheets showing results based on launch date and goals of each campaigns.
+1. From a dataset with kickstarter campaigns, I performed data analysis on several thousand crowdfunding projects to uncover any hidden trends.
+2. To start with the analysis, create two excel sheets showing results based on launch date and goals of each campaigns.
 
 ![Categoryoutcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Categoryoutcomes.png)
 ![Outcomes](https://github.com/Kalkidanalemaye/Kickstarter-analysis/blob/master/Outcomes.png)
